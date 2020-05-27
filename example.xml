@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Amadeus Six Airline Messages</title>
+    <link>https://amadeus.com/en</link>
+    <description />
+    <language>en-us</language>
+    <item>
+      <title>COVID-19 Change in Rebooking policy</title>
+      <pubDate>Tue, 28 Apr 2020 19:56:52 GMT</pubDate>
+      <link>https://amadeus.com/newinstructions</link>
+      <description><![CDATA[Change fees are not applicable to tickets issued anytime for travel from 01-MAR-2020 onwards until 15-JUNE-20. If there is a difference in the airfare or applicable taxes, due to the reissue/rerouting of the ticket, the additional amount will need to be collected. Customers can change their booking to travel on/or before December 31, 2020. ]]></description>
+    </item>
+    <item>
+      <title>COVID-19 Change in Refund policy</title>
+      <pubDate>Tue, 28 Apr 2020 19:57:02 GMT</pubDate>
+      <description><![CDATA[Refund permitted free of charge if only original flight shown on the ticket is canceled. Full refund can be made free of charge for travel dates between 01-MAR-2020 until 15-JUN-2020 by issuing a voucher of equal amount to be used within one year of issue.If voucher is required to be refunded, applicable rule at time of ticket purchase shall apply. No show fee will apply at all times except when flight is canceled involuntarily by the airline. The policy is applicable for both refundable and non-refundable tickets. ]]></description>
+    </item>
+    <item>
+      <title>New Messages</title>
+      <pubDate>Tue, 28 Apr 2020 19:57:03 GMT</pubDate>
+      <link>https://google.com</link>
+      <description><![CDATA[New message example. This is <strong>a sample testing</strong>]]></description>
+    </item>
+  </channel>
+</rss>
